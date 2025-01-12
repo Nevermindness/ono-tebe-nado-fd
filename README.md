@@ -1,1 +1,1 @@
-https://github.com/Nevermindness/ono-tebe-nado
+https://github.com/Nevermindness/ono-tebe-nado-fd
